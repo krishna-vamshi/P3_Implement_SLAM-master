@@ -2,9 +2,7 @@
 
 This repository consists of the solution for the project: SLAM from the udacity Computer Vision Nanodegree. The solutions are uploaded as the HTML files of:
     notebook 1 Robot Moving and Sensing
-    notebook 3 Landmark Detection and Tracking
-
-robot_class_solution python file. 
+    notebook 3 Landmark Detection and Tracking and the robot_class_solution python file. 
 
 Please restrain yourself from accessing it, if you are currently taking the course. The master code is not altered in any way.
 
